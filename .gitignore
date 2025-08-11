@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# Large model files
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+temp_image.jpg
