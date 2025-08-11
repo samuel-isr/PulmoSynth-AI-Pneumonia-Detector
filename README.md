@@ -5,7 +5,7 @@ An Advanced Pneumonia Detector
 
 This is a model that uses an ensemble of two deep learning models to detect pneumonia in chest X-ray images with **92.63% accuracy**.
 
-Welcome to PulmoSynth AI. This project was a deep dive into a real world challenge could we build a truly reliable tool to detect pneumonia from X-rays? The journey had its fair share of twists and turns, from hitting performance walls to completely rethinking the approach. What came out of it was something I'm incredibly proud of, a powerful ensemble model that hits 92.63% accuracy on data it has never seen before, all wrapped up in a simple, stable desktop app.
+Welcome to PulmoSynth AI. This project was a deep dive into a real world challenge could we build a truly reliable tool to detect pneumonia from X-rays? The journey had its fair share of twists and turns, from hitting performance walls to completely rethinking the approach. What came out of it was something remarkable, a powerful ensemble model that hits 92.63% accuracy on data it has never seen before, all wrapped up in a simple, stable desktop app.
 
 This repository tells the story of that process and gives you everything you need to run it yourself.
 
