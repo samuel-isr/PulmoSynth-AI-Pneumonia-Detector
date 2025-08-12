@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 import os
 import numpy as np
 from sklearn.utils.class_weight import compute_class_weight
-base_path = r'C:\Users\Samuel I\pneumonia_ai\chest_xray\chest_xray'
+base_path = '' #file directory
 train_dir = os.path.join(base_path, 'train')
 test_path = os.path.join(base_path, 'test')
 IMAGE_SIZE = [224, 224]
