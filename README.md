@@ -1,5 +1,5 @@
 
-**PulmoSynth AI:**
+# **PulmoSynth AI:**
 
 An Advanced Pneumonia Detector
 
